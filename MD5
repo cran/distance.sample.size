@@ -1,0 +1,14 @@
+5cb6ca7883c42e666a842353128356e9 *DESCRIPTION
+b12b6bccbd4952781853bf3f5aa0a3a6 *NAMESPACE
+b1053fe4c37edc58d4c016724afd984f *R/DS.penalty.R
+e3a551cc2ae45949f2f670b5f77fc921 *R/calculate.mean.detection.prob.R
+f1e7912658dd05ecb6542890721129fc *R/calculate.theta.given.mean.detection.prob.R
+0eb93a6ac81457480727b3c68a78416e *R/detection.prob.R
+8895c6b1b648a53443971f62cbf839df *R/distance.sample.size.R
+b65349a2b73044d453cac3862630c0aa *inst/CITATION
+b895426fa4aa6b53c9c16a8995eb3865 *inst/distance.sample.size.pdf
+69382030b91a2838d95f7272b654924c *man/DS.penalty.Rd
+f24b9aa6b6acbcd4ec4365b8e2b02530 *man/calculate.mean.detection.prob.Rd
+52019da8c4b3be3c9f4f5faf745a07a6 *man/calculate.theta.given.mean.detection.prob.Rd
+3e98cd3065a897fbc4fe3df4ba5f1203 *man/detection.prob.Rd
+6006796e5ecf217fbe0711dbea7e7b7d *man/distance.sample.size.Rd
